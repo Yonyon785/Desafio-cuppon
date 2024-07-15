@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-verde {
+    background-color: #28a745;
+}
+
+.logo-white {
+    width: 25%;
+}
+
+.card-title {
+    color: #212529;
+    font-weight: 300;
+}
+
+.producto {
+    color: #707070;
+    font-weight: 300;
+}
+
+.ubicación {
+    color: #707070;
+    font-weight: 300;
+}
+
+.precio-normal {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.precio-desc {
+    color: #28a745;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+legend {
+    color: #FFFFFF;
+}
+
+.logo-negro {
+    width: 25%;
+    text-align: center;
+}
